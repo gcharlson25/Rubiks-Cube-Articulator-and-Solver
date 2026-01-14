@@ -26,7 +26,6 @@ A motorized Rubik’s Cube articulator robot designed to rotate each face with p
 - Left face: Left side left button rotates counterclockwise | Left side right button rotates clockwise
 - Front face: Right side top bumper rotates counterclockwise | Right side bottom bumper rotates clockwise
 - Back face: Left side top bumper rotates counterclockwise | Left side bottom bumper rotates clockwise
-
 - Left push button to scramble | Right push button to solve
 
 ## [Demo Video](https://youtube.com/shorts/DAfZxnsuSnk?feature=share)
